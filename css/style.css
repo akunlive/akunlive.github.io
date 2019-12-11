@@ -1290,7 +1290,8 @@ div.ac > ul > li:before,
   text-shadow: none;
 }
 .post .pjax {
-  max-width: 900px;
+  max-width: 100%;
+  padding: 0 18px;
   min-height: calc(100vh - 143px);
   margin: 0 auto;
   overflow-y: auto;
@@ -1890,7 +1891,7 @@ img.pswp__img {
   }
   .post .pjax,
   .post .pjax.fullscreen {
-    padding: 0 18px;
+    padding: 0px;
   }
   .post .pjax article .div_img,
   .post .pjax.fullscreen article .div_img {
@@ -2022,7 +2023,7 @@ img.pswp__img {
     font-size: 16px;
   }
   .post .pjax {
-    padding: 0 18px;
+    padding: 0px;
     max-width: 100%;
   }
   .post .pjax article {
