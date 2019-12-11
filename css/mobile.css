@@ -74,7 +74,7 @@
   }
   .post .pjax,
   .post .pjax.fullscreen {
-    padding: 0px;
+    padding: 0 5px;
   }
   .post .pjax article .div_img,
   .post .pjax.fullscreen article .div_img {
@@ -206,7 +206,7 @@
     font-size: 16px;
   }
   .post .pjax {
-    padding: 0px;
+    padding: 0 5px;
     max-width: 100%;
   }
   .post .pjax article {
