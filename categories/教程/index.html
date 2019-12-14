@@ -134,11 +134,11 @@
 
 
 <ul>
-    <li><div class="all active">全部文章<small>(2)</small></div></li>
+    <li><div class="all active">全部文章<small>(3)</small></div></li>
     
         
             
-            <li><div data-rel="运维">运维<small>(1)</small></div>
+            <li><div data-rel="教程">教程<small>(1)</small></div>
                 
             </li>
             
@@ -146,7 +146,15 @@
     
         
             
-            <li><div data-rel="教程">教程<small>(1)</small></div>
+            <li><div data-rel="音乐">音乐<small>(1)</small></div>
+                
+            </li>
+            
+        
+    
+        
+            
+            <li><div data-rel="运维">运维<small>(1)</small></div>
                 
             </li>
             
@@ -162,7 +170,7 @@
     </div>
     <div><a class="about  hasFriend  site_url"  href="/about">关于</a><a style="width: 50%"  class="friends">友链</a></div>
 </div>
-<input type="hidden" id="yelog_site_posts_number" value="2">
+<input type="hidden" id="yelog_site_posts_number" value="3">
 <input type="hidden" id="yelog_site_word_count" value="528">
 <div style="display: none">
     <span id="busuanzi_value_site_uv"></span>
@@ -208,6 +216,14 @@
         <a class="color2">hexo主题</a>
     </li>
     
+    <li class="article-tag-list-item">
+        <a class="color5">ゴンチチ</a>
+    </li>
+    
+    <li class="article-tag-list-item">
+        <a class="color3">humble music</a>
+    </li>
+    
     <div class="clearfix"></div>
 </div>
 
@@ -215,15 +231,23 @@
     <nav id="title-list-nav">
         
         <a id="top" class="运维 "
-           href="/1988/12/12/1988-12-12%20%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/"
+           href="/1988/12/12/1988-12-12%5B%E8%BF%90%E7%BB%B4%5D%20%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/"
            data-tag=""
            data-author="" >
             <span class="post-title" title="免责声明">免责声明</span>
             <span class="post-date" title="1988-12-12 12:12:12">1988/12/12</span>
         </a>
         
+        <a  class="音乐 "
+           href="/2019/12/14/2019-12-14%5B%E9%9F%B3%E4%B9%90%5D%201967%20-%20%E3%82%B4%E3%83%B3%E3%83%81%E3%83%81/"
+           data-tag="ゴンチチ,humble music"
+           data-author="" >
+            <span class="post-title" title="1967 - ゴンチチ">1967 - ゴンチチ</span>
+            <span class="post-date" title="2019-12-14 10:34:56">2019/12/14</span>
+        </a>
+        
         <a  class="教程 "
-           href="/2019/12/08/2019-12-08%20Windows%20hexo%20%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/"
+           href="/2019/12/08/2019-12-08%5B%E6%95%99%E7%A8%8B%5D%20Windows%20hexo%20%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/"
            data-tag="hexo,3-hexo,hexo主题"
            data-author="" >
             <span class="post-title" title="Windows hexo 部署教程">Windows hexo 部署教程</span>
@@ -360,7 +384,7 @@
     /*作者、标签的自动补全*/
     $(function () {
         $('.search').AutoComplete({
-            'data': ['#hexo','#3-hexo','#hexo主题',],
+            'data': ['#hexo','#3-hexo','#hexo主题','#ゴンチチ','#humble music',],
             'itemHeight': 20,
             'width': 418
         }).AutoComplete('show');
