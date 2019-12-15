@@ -648,7 +648,7 @@ div.ac > ul > li:before,
 .nav-left .avatar {
   width: 100px;
   height: 100px;
-  margin: 55px auto 15px;
+  margin: 15px auto 15px;
   border-radius: 50%;
   box-shadow: 0 0 0px 4px #fff, 0 0 4px 4px #eee;
   background-repeat: no-repeat;
@@ -1999,15 +1999,25 @@ img.pswp__img {
     width: calc(100% - 101px);
     position: absolute;
     right: 0px;
-    top: 201px;
-    height: calc(100% - 232px);
+    top: 161px;
+    height: calc(100% - 192px);
+  }
+  .nav-right form {
+    height: 42px !important;
+  }
+  .nav-right form .search {
+    margin-top: 0px !important;
+    padding: 8px 0 0 20px !important;
+  }
+  .nav-right form span {
+    top: 12px !important;
   }
   .nav-right title-list-nav {
     height: 100%;
   }
   .nav-right .title-list nav {
-    top: 64px;
-    height: calc(100% - 77px) !important;
+    top: 41px;
+    height: calc(100% - 40px) !important;
   }
   .nav-right .title-list nav a .post-title {
     width: calc(100% - 0px);
@@ -2050,9 +2060,7 @@ img.pswp__img {
     opacity: 0.7;
   }
   .full-toc .post-toc-menu {
-    top: 43px;
-    right: 0px;
-    opacity: 0.7;
+    display: none;
   }
   .full-toc #rocket {
     right: -7px;
