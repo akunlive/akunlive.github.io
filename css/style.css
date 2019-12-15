@@ -1922,7 +1922,7 @@ img.pswp__img {
 }
 @media screen and (max-width: 426px) {
   .nav {
-    width: 492px;
+    width: 100%;
   }
   .nav.fullscreen {
     margin-left: -492px;
