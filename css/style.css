@@ -1855,10 +1855,7 @@ img.pswp__img {
     font-size: 14px;
   }
   .nav .hide-list {
-    left: 492px;
-  }
-  .nav .hide-list.fullscreen {
-    left: 0;
+    display: none;
   }
   .post {
     font-size: 16px;
