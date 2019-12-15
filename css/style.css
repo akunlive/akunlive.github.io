@@ -2013,7 +2013,7 @@ img.pswp__img {
     top: 12px !important;
   }
   .nav-right .tags-list {
-    top: 45px;
+    top: 45px !important;
   }
   .nav-right title-list-nav {
     height: 100%;
