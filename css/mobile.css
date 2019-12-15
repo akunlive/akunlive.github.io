@@ -106,12 +106,11 @@
 @media screen and (max-width: 426px) {
   .nav {
     width: 100%;
-  }
-  .nav.fullscreen {
-    margin-left: -492px;
+    overflow: hidden;
   }
   .nav-left {
     width: 100px;
+    height: 100%;
   }
   .nav-left .avatar {
     width: 80px;
@@ -133,8 +132,7 @@
   }
   .nav-right .title-list nav {
     top: 64px;
-    bottom: 160px;
-    height: calc(100% - 68px) !important;
+    height: calc(100% - 77px) !important;
   }
   .nav-right .title-list nav a .post-title {
     width: calc(100% - 0px);
