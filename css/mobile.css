@@ -195,6 +195,9 @@
   .nav-right form span {
     top: 12px !important;
   }
+  .nav-right .tags-list {
+    top: 45px;
+  }
   .nav-right title-list-nav {
     height: 100%;
   }
