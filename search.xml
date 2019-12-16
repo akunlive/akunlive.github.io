@@ -5,8 +5,8 @@
     
     <entry>
       <title>Istanbul Istanbul Olalı - Miradey-M</title>
-      <link href="/2019/12/14/%5B%E9%9F%B3%E4%B9%90%5D2019-12-14%20Istanbul%20Istanbul%20Olal%C4%B1%20-%20Miradey-M/"/>
-      <url>/2019/12/14/%5B%E9%9F%B3%E4%B9%90%5D2019-12-14%20Istanbul%20Istanbul%20Olal%C4%B1%20-%20Miradey-M/</url>
+      <link href="/posts/e24c845d/"/>
+      <url>/posts/e24c845d/</url>
       
         <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=423703219&auto=1&height=66"></iframe>]]></content>
       
@@ -32,8 +32,8 @@
     
     <entry>
       <title>《魔兽争霸》25周年纪念</title>
-      <link href="/2019/12/14/%5B%E8%A7%86%E9%A2%91%5D2019-12-14%20%E3%80%8A%E9%AD%94%E5%85%BD%E4%BA%89%E9%9C%B8%E3%80%8B25%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5/"/>
-      <url>/2019/12/14/%5B%E8%A7%86%E9%A2%91%5D2019-12-14%20%E3%80%8A%E9%AD%94%E5%85%BD%E4%BA%89%E9%9C%B8%E3%80%8B25%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5/</url>
+      <link href="/posts/73f77141/"/>
+      <url>/posts/73f77141/</url>
       
         <content type="html"><![CDATA[<script type="text/javascript">function changeFrameHeight(){var ifm= document.getElementById("mainiframe");ifm.height=document.documentElement.clientHeight-256;}window.onresize=function(){ changeFrameHeight();}$(function(){changeFrameHeight();});</script><iframe id="mainiframe" src="//player.bilibili.com/player.html?aid=75412904&cid=128995445&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>]]></content>
       
@@ -59,8 +59,8 @@
     
     <entry>
       <title>1967 - ゴンチチ</title>
-      <link href="/2019/12/14/%5B%E9%9F%B3%E4%B9%90%5D2019-12-14%201967%20-%20%E3%82%B4%E3%83%B3%E3%83%81%E3%83%81/"/>
-      <url>/2019/12/14/%5B%E9%9F%B3%E4%B9%90%5D2019-12-14%201967%20-%20%E3%82%B4%E3%83%B3%E3%83%81%E3%83%81/</url>
+      <link href="/posts/2a075cc5/"/>
+      <url>/posts/2a075cc5/</url>
       
         <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=757567&auto=1&height=66"></iframe>]]></content>
       
@@ -86,8 +86,8 @@
     
     <entry>
       <title>Windows hexo 部署教程</title>
-      <link href="/2019/12/08/%5B%E6%95%99%E7%A8%8B%5D2019-12-08%20Windows%20hexo%20%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/"/>
-      <url>/2019/12/08/%5B%E6%95%99%E7%A8%8B%5D2019-12-08%20Windows%20hexo%20%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</url>
+      <link href="/posts/c694bbb7/"/>
+      <url>/posts/c694bbb7/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo server</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo generate</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
@@ -115,8 +115,8 @@
     
     <entry>
       <title>免责声明</title>
-      <link href="/1988/12/12/%5B%E8%BF%90%E7%BB%B4%5D1988-12-12%20%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/"/>
-      <url>/1988/12/12/%5B%E8%BF%90%E7%BB%B4%5D1988-12-12%20%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E/</url>
+      <link href="/posts/6934b86c/"/>
+      <url>/posts/6934b86c/</url>
       
         <content type="html"><![CDATA[<h1><center><b>免责声明</b></center></h1><ol><li>本网站部分文/图来源于网友、会员分享及互联网，转载目的在于传递更多信息及用于网络分享，并不意味着本网站赞同其观点或证实其内容的真实性，我们不对其科学性、严肃性等作任何形式的保证。</li></ol><ol start="2"><li>本网站将尽力确保所提供信息的准确性及可靠性，但不保证信息的正确性和完整性，且不对因信息的不正确或遗漏导致的任何损失或损害承担责任。</li></ol><ol start="3"><li>本站资源不保证其完整性和安全性，下载后请自行检测安全，在使用过程中出现的任何问题均与本站无关，请自行处理。</li></ol><ol start="4"><li>任何透过本网站网页而链接及得到的资讯、产品及服务，本网站概不负责，亦不负任何法律责任。</li></ol><ol start="5"><li>因本站部分教程来自于互联网，仅供学习参考, 不得传播及用于其他用途, 学习完后请在24小时内自行删除。</li></ol><ol start="6"><li>访问(Hello code world <a href="https://akunlive.cn/">akunlive.cn</a>)的用户必须明白，(Hello code world <a href="https://akunlive.cn/">akunlive.cn</a>)对提供下载的软件及其它资源不拥有任何权利，其版权归该下载资源的合法拥有者所有。</li></ol><ol start="7"><li>未经(Hello code world <a href="https://akunlive.cn/">akunlive.cn</a>)的明确许可，任何人不得盗链本站下载资源；(Hello code world <a href="https://akunlive.cn/">akunlive.cn</a>对其自行开发的或和他人共同开发的所有内容、技术手段和服务拥有全部知识产权，任何人不得侵害或破坏，也不得擅自使用。</li></ol><p><strong>如本网站有文章、图片或教程等侵犯到您的权益，请<a href="mailto:akunlive@foxmail.com" target="_blank" rel="noopener">联系我</a>，说明具体情况，本站将第一删除。</strong></p>]]></content>
       
