@@ -220,8 +220,11 @@
   .post {
     font-size: 16px;
   }
+  .post .article_copyright {
+    padding: 5px 10px;
+  }
   .post .pjax {
-    padding: 0 18px;
+    padding: 0 10px;
     max-width: 100%;
   }
   .post .pjax article {
