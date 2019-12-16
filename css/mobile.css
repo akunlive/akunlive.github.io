@@ -200,6 +200,7 @@
   }
   .nav-right .tags-list {
     top: 45px !important;
+    width: calc(100% - 38px) !important;
   }
   .nav-right title-list-nav {
     height: 100%;
