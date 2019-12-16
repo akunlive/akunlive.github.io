@@ -178,6 +178,9 @@
     width: 100px;
     font-size: 16px;
   }
+  .nav-left .left-bottom .menus {
+    width: 100px;
+  }
   .nav-right {
     width: calc(100% - 101px);
     position: absolute;
