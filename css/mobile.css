@@ -195,6 +195,10 @@
     margin-top: 0px !important;
     padding: 8px 0 0 20px !important;
   }
+  .nav-right form .cross {
+    top: 12px !important;
+    right: 100px !important;
+  }
   .nav-right form span {
     top: 12px !important;
   }
