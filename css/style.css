@@ -2009,6 +2009,7 @@ img.pswp__img {
     height: 42px !important;
   }
   .nav-right form .search {
+    width: calc(100% - 120px) !important;
     margin-top: 0px !important;
     padding: 8px 0 0 20px !important;
   }
@@ -2018,6 +2019,7 @@ img.pswp__img {
   }
   .nav-right form span {
     top: 12px !important;
+    display: none;
   }
   .nav-right .tags-list {
     top: 45px !important;

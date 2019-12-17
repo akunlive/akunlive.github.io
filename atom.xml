@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://akunlive.cn/"/>
-  <updated>2019-12-17T11:30:21.480Z</updated>
+  <updated>2019-12-17T12:16:22.414Z</updated>
   <id>https://akunlive.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://akunlive.cn/posts/c9d81037/"/>
     <id>https://akunlive.cn/posts/c9d81037/</id>
     <published>2019-12-17T11:30:46.000Z</published>
-    <updated>2019-12-17T11:30:21.480Z</updated>
+    <updated>2019-12-17T12:16:22.414Z</updated>
     
     <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=1919382&auto=1&height=66"></iframe>]]></content>
     
@@ -40,8 +40,6 @@
     
       <category term="Robert Bonfiglio" scheme="https://akunlive.cn/tags/Robert-Bonfiglio/"/>
     
-      <category term="Harmonica Sound of Hong Kong" scheme="https://akunlive.cn/tags/Harmonica-Sound-of-Hong-Kong/"/>
-    
   </entry>
   
   <entry>
@@ -49,7 +47,7 @@
     <link href="https://akunlive.cn/posts/2df09597/"/>
     <id>https://akunlive.cn/posts/2df09597/</id>
     <published>2019-12-16T13:00:56.000Z</published>
-    <updated>2019-12-16T13:07:17.889Z</updated>
+    <updated>2019-12-17T12:16:14.534Z</updated>
     
     <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=550829288&auto=1&height=66"></iframe>]]></content>
     
@@ -68,8 +66,6 @@
     
       <category term="LookedatHerFore" scheme="https://akunlive.cn/tags/LookedatHerFore/"/>
     
-      <category term="April" scheme="https://akunlive.cn/tags/April/"/>
-    
   </entry>
   
   <entry>
@@ -77,7 +73,7 @@
     <link href="https://akunlive.cn/posts/e24c845d/"/>
     <id>https://akunlive.cn/posts/e24c845d/</id>
     <published>2019-12-14T12:00:00.000Z</published>
-    <updated>2019-12-16T12:11:38.826Z</updated>
+    <updated>2019-12-17T12:16:07.686Z</updated>
     
     <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=423703219&auto=1&height=66"></iframe>]]></content>
     
@@ -95,8 +91,6 @@
     
     
       <category term="Miradey-M" scheme="https://akunlive.cn/tags/Miradey-M/"/>
-    
-      <category term="Mungluk Muzika" scheme="https://akunlive.cn/tags/Mungluk-Muzika/"/>
     
   </entry>
   
@@ -136,7 +130,7 @@ ifm.height=document.documentEl
     <link href="https://akunlive.cn/posts/2a075cc5/"/>
     <id>https://akunlive.cn/posts/2a075cc5/</id>
     <published>2019-12-14T02:34:56.000Z</published>
-    <updated>2019-12-16T12:11:38.826Z</updated>
+    <updated>2019-12-17T12:15:59.998Z</updated>
     
     <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=757567&auto=1&height=66"></iframe>]]></content>
     
@@ -155,8 +149,6 @@ ifm.height=document.documentEl
     
       <category term="ゴンチチ" scheme="https://akunlive.cn/tags/%E3%82%B4%E3%83%B3%E3%83%81%E3%83%81/"/>
     
-      <category term="humble music" scheme="https://akunlive.cn/tags/humble-music/"/>
-    
   </entry>
   
   <entry>
@@ -164,7 +156,7 @@ ifm.height=document.documentEl
     <link href="https://akunlive.cn/posts/c694bbb7/"/>
     <id>https://akunlive.cn/posts/c694bbb7/</id>
     <published>2019-12-08T13:00:00.000Z</published>
-    <updated>2019-12-16T12:11:38.812Z</updated>
+    <updated>2019-12-17T12:15:39.589Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo server</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo generate</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -182,10 +174,6 @@ ifm.height=document.documentEl
     
     
       <category term="hexo" scheme="https://akunlive.cn/tags/hexo/"/>
-    
-      <category term="3-hexo" scheme="https://akunlive.cn/tags/3-hexo/"/>
-    
-      <category term="hexo主题" scheme="https://akunlive.cn/tags/hexo%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
