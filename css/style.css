@@ -1998,6 +1998,16 @@ img.pswp__img {
   .nav-left .left-bottom .menus {
     width: 100px;
   }
+  .nav-left .avatar_show {
+    position: absolute;
+    top: 0px;
+    padding: 0;
+    width: 100%;
+    height: 161px;
+    background: url("https://cv.akunlive.cn/img/snow.gif");
+    background-size: 150px 150px;
+    pointer-events: none;
+  }
   .nav-right {
     width: calc(100% - 101px);
     position: absolute;
