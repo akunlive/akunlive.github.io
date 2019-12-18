@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://akunlive.cn/"/>
-  <updated>2019-12-18T12:39:11.239Z</updated>
+  <updated>2019-12-18T12:39:32.984Z</updated>
   <id>https://akunlive.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://akunlive.cn/posts/e13b2722/"/>
     <id>https://akunlive.cn/posts/e13b2722/</id>
     <published>2019-12-18T12:36:46.000Z</published>
-    <updated>2019-12-18T12:39:11.239Z</updated>
+    <updated>2019-12-18T12:39:32.984Z</updated>
     
     <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=16846088&auto=1&height=66"></iframe>]]></content>
     
@@ -39,6 +39,37 @@
     
     
       <category term="Capo Productions" scheme="https://akunlive.cn/tags/Capo-Productions/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《魔兽世界：争霸艾泽拉斯》开场动画CG</title>
+    <link href="https://akunlive.cn/posts/f29088f6/"/>
+    <id>https://akunlive.cn/posts/f29088f6/</id>
+    <published>2019-12-18T12:18:18.000Z</published>
+    <updated>2019-12-18T12:47:56.380Z</updated>
+    
+    <content type="html"><![CDATA[<script type="text/javascript">function changeFrameHeight(){var ifm= document.getElementById("mainiframe");ifm.height=document.documentElement.clientHeight-256;}window.onresize=function(){ changeFrameHeight();}$(function(){changeFrameHeight();});</script><iframe id="mainiframe" src="//player.bilibili.com/player.html?aid=15996640&cid=26101124&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script type=&quot;text/javascript&quot;&gt;
+function changeFrameHeight(){
+var ifm= document.getElementById(&quot;mainiframe&quot;);
+ifm.height=document.documentEl
+      
+    
+    </summary>
+    
+    
+      <category term="视频" scheme="https://akunlive.cn/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    
+      <category term="魔兽世界" scheme="https://akunlive.cn/tags/%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C/"/>
+    
+      <category term="游戏CG" scheme="https://akunlive.cn/tags/%E6%B8%B8%E6%88%8FCG/"/>
     
   </entry>
   
