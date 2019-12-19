@@ -1160,7 +1160,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fff4ed;
+  background: #1b2a3e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2693,12 +2693,27 @@ ul.breadcrumb li + li:last-child {
     margin: 8px 0 0;
   }
 }
-.post-block {
+.post-block,
+.sidebar-inner,
+.header-inner {
   background: 0 !important;
 }
 .post-meta {
   margin: 3px 0 0 0 !important;
 }
-.post-body {
+.post-body h1 {
   display: none !important;
+}
+.post-body #text {
+  display: none !important;
+}
+.post-description {
+  display: none !important;
+}
+ol {
+  padding-left: 17px !important;
+}
+.sidebar-inner:hover {
+  background: url("https://cv.akunlive.cn/img/snow.gif") !important;
+  background-size: 153px 153px !important;
 }
