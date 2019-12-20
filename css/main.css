@@ -1160,7 +1160,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4dff82;
+  background: #d9ffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2687,15 +2687,17 @@ ol {
   }
   .content-wrap {
     width: calc(100% - 150px);
+    padding: 10px 5px 10px 10px !important;
   }
   .sidebar {
     display: block !important;
-    margin-top: 8px !important;
-    width: 150px !important;
+    margin-top: 10px !important;
+    margin-left: 5px !important;
+    width: 145px !important;
   }
   .sidebar .sidebar-inner {
     position: fixed !important;
-    width: 150px !important;
+    width: 145px !important;
   }
   .post-block {
     padding: 10px 10px 1px 10px !important;
@@ -2710,21 +2712,12 @@ ol {
     padding: 10px 0 !important;
   }
 }
-@media (max-width: 426px) {
+@media (max-width: 784px) {
   .sidebar {
-    width: 100px !important;
-  }
-  .sidebar .sidebar-inner {
-    position: fixed !important;
-    width: 100px !important;
-  }
-  .site-author-image {
-    max-width: 70px !important;
-  }
-  .site-state-tags {
     display: none !important;
   }
   .content-wrap {
-    width: calc(100% - 100px);
+    width: 100%;
+    padding: 10px !important;
   }
 }
