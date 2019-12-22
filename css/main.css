@@ -1160,7 +1160,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #bf7559;
+  background: #216181;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2736,33 +2736,8 @@ ol {
     display: none !important;
   }
   .content-wrap {
-    width: calc(100% - 100px);
-    padding: 0 5px 0 5px !important;
-  }
-  .header-inner {
-    float: left;
-    left: 0px;
-    width: 100px;
-  }
-  .site-brand-container {
     width: 100%;
-    position: fixed;
-  }
-  .site-nav {
-    display: block !important;
-    width: 100px;
-    position: fixed;
-    top: 81px;
-    background: rgba(255,255,255,0.3);
-  }
-  .site-nav-toggle {
-    display: none !important;
-  }
-  .menu {
-    margin: 0;
-  }
-  .menu a {
-    padding: 5px 10px !important;
+    padding: 10px !important;
   }
 }
 @media (max-width: 640px) {
