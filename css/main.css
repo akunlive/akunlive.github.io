@@ -1160,7 +1160,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #dd58ff;
+  background: #7f5429;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2677,11 +2677,39 @@ ol {
   color: #ee802f !important;
   width: 200px !important;
 }
+.site-nav-toggle {
+  width: calc(100% - 45px) !important;
+}
+.site-nav-toggle .toggle {
+  float: left !important;
+}
+.site-nav-toggle .custom-home {
+  float: right;
+  margin-top: 2px;
+}
+.site-nav-toggle .custom-home .fa-home {
+  color: #fff;
+  font-size: 20px;
+  border: none;
+}
+.tag-cloud-tags a {
+  font-size: 1em !important;
+  color: #111 !important;
+}
+.posts-collapse::before {
+  background: rgba(0,231,255,0.439);
+}
+.posts-collapse .collection-title::before,
+.posts-collapse .collection-year::before,
+.posts-collapse .post-header::before {
+  background: #00e7ff;
+}
 @media (max-width: 991px) {
   .header {
     width: 100% !important;
     position: fixed !important;
     z-index: 3;
+    height: auto;
   }
   .header-inner {
     background: #fff !important;
