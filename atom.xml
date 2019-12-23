@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://akunlive.cn/"/>
-  <updated>2019-12-21T07:39:44.186Z</updated>
+  <updated>2019-12-23T10:39:34.525Z</updated>
   <id>https://akunlive.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>安卓实用软件集合</title>
+    <link href="https://akunlive.cn/posts/7f90fc0d/"/>
+    <id>https://akunlive.cn/posts/7f90fc0d/</id>
+    <published>2019-12-23T10:18:18.000Z</published>
+    <updated>2019-12-23T10:39:34.525Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://www.lanzous.com/b00t6uuta" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;span class=&quot;description&quot;&gt;点击阅读前文前, 首页能看到的文章的简短描述&lt;/span&gt;
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="https://akunlive.cn/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="安卓软件" scheme="https://akunlive.cn/categories/%E5%B7%A5%E5%85%B7/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+      <category term="安卓" scheme="https://akunlive.cn/tags/%E5%AE%89%E5%8D%93/"/>
+    
+  </entry>
   
   <entry>
     <title>Journey - Capo Productions</title>
@@ -44,9 +69,9 @@
     <link href="https://akunlive.cn/posts/f29088f6/"/>
     <id>https://akunlive.cn/posts/f29088f6/</id>
     <published>2019-12-18T12:18:18.000Z</published>
-    <updated>2019-12-21T08:10:56.185Z</updated>
+    <updated>2019-12-23T10:36:47.901Z</updated>
     
-    <content type="html"><![CDATA[<script type="text/javascript">function changeFrameHeight(){var ifm= document.getElementById("mainiframe");ifm.height=document.documentElement.clientHeight-256;}window.onresize=function(){ changeFrameHeight();}$(function(){changeFrameHeight();});</script><iframe id="mainiframe" src="//player.bilibili.com/player.html?aid=15996640&cid=26101124&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>]]></content>
+    <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=15996640&cid=26101124&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>]]></content>
     
     <summary type="html">
     
@@ -138,9 +163,9 @@
     <link href="https://akunlive.cn/posts/73f77141/"/>
     <id>https://akunlive.cn/posts/73f77141/</id>
     <published>2019-12-14T03:00:00.000Z</published>
-    <updated>2019-12-21T07:38:36.508Z</updated>
+    <updated>2019-12-23T10:36:28.748Z</updated>
     
-    <content type="html"><![CDATA[<script type="text/javascript">function changeFrameHeight(){var ifm= document.getElementById("mainiframe");ifm.height=document.documentElement.clientHeight-256;}window.onresize=function(){ changeFrameHeight();}$(function(){changeFrameHeight();});</script><iframe id="mainiframe" src="//player.bilibili.com/player.html?aid=75412904&cid=128995445&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>]]></content>
+    <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=75412904&cid=128995445&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>]]></content>
     
     <summary type="html">
     
